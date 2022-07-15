@@ -1,6 +1,6 @@
 <img src="./assets/screenshots/Flutter%20BMI.png" width="100%">
 
-# BMI Calculator App
+# ToDo App
 
 A user may add to todo task list, view all the tasks they have to complete,if the task is completed then just click on done task after clicking it will show as done and you can add it to archived the completed task can be deleted by swapping right or lift.
 
