@@ -46,5 +46,5 @@ flutter run
 - Have knowledge of object oriented programming languages like Dart, Flutter, Java, mysql, etc.
 - Some knowledge of Flutter and how to use Android Studio or Visual Studio is preferrable for a head start.
 - UI/UX Design skills are appreciable but not mandatory
-- Have knowledge of blo and cubit
+- Have knowledge of bloc and cubit
 </a>
