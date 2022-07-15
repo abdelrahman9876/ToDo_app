@@ -23,7 +23,7 @@ One of the first simple apps I created while on my journey to learn Flutter.
 
   ##### Clone the repository
 ```bash
-git clone https://github.com/swapnilsparsh/ToDo_app.git
+git clone https://github.com/abdelrahman9876/ToDo_app.git
 ```
   ##### Move to the desired folder
 ```bash
